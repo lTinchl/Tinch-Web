@@ -1,2 +1,1 @@
 # Tinch-Web
-my blog
